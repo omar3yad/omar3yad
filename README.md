@@ -1,4 +1,5 @@
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,dart,android,git,github,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=python,sql,azure,aws,dotnet,csharp,cpp,git,github,linux,html,css,js,php)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=your_username&theme=tokyonight)
