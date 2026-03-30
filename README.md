@@ -45,10 +45,10 @@
   </td>
 </tr>
 </table>
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=omar3yad&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Co--Founder-EA%20Tech-orange?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-green?style=for-the-badge&logo=python" />
 </div>
 </p>        
 <div id="user-content-toc">
