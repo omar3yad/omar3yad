@@ -32,9 +32,13 @@
   <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar3yad&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar3yad&theme=tokyonight&hide_border=false" /> 
+  <div align="center">
+    <img src="https://img.shields.io/badge/Full--Stack%20Developer-Omar%20Ayyad-blue?style=for-the-badge&logo=github" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Co--Founder-EA%20Tech-orange?style=for-the-badge&logo=rocket" />
+    <br><br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar3yad&theme=dark&hide_border=false" />
+  </div>
 </td>
 
 <td width="50%" align="center">
