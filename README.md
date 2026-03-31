@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Full-Stack Development, SaaS Architecture, and API Integrations**.
 
-- 📫 Feel free to reach me out at **[Your Email Address]**
+- 📫 Feel free to reach me out at **[ayyad0311@gmail.com]**
 <p align="center">
   <table align="center">
 <tr border="none">
