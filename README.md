@@ -1,83 +1,48 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hi there, I'm Omar Ahmed Ayad 👋
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Omar Ahmed Ayyad</h1></summary>
-  </ul>
-</div>
-
+<!-- Phase 1: Animated Terminal Banner -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omar3yad/omar3yad/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omar3yad/omar3yad/main/light.svg">
+    <img alt="Omar Ahmed Ayad Terminal Profile" src="https://raw.githubusercontent.com/omar3yad/omar3yad/main/dark.svg" width="100%">
+  </picture>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Architecting Scalable Software Solutions & AI Integrations</h2></summary>
-  </ul>
-</div>
+<br/>
 
-- 🔭 I’m currently building a **Smart Parking System** and co-founding **EA Tech (A-Z Software Solutions)**.
-
-- 🌱 My technical focus lies in **Backend Architecture (.NET, Laravel, Django)** and AI/Computer Vision integration **(YOLO, OpenCV)**.
-
-- 🎓 Studying at the **Faculty of Computers and Information, Helwan University**.
-
-- ⚡ I love building clean, responsive interfaces using **Bootstrap 5** and robust APIs for SaaS products like Stadium Booking systems.
-
-- 💬 Ask me about **Full-Stack Development, SaaS Architecture, and API Integrations**.
-
-- 📫 Feel free to reach me out at **[ayyad0311@gmail.com]**
-<p align="center">
-  <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omar3yad&theme=dark&show_icons=true&count_private=true" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar3yad&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omar3yad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<!-- Phase 2: Self-hosted GitHub Stats Cards -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Co--Founder-EA%20Tech-orange?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-green?style=for-the-badge&logo=python" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=omar3yad&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak" />
+  <br/><br/>
+  <img width="49%" src="https://github-readme-stats-nine-sigma-74.vercel.app/api?username=omar3yad&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Omar's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-nine-sigma-74.vercel.app/api/top-langs/?username=omar3yad&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
 </div>
-</p>        
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
-  </ul>
+
+<br/>
+
+<!-- Phase 3: Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omar3yad/omar3yad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omar3yad/omar3yad/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/omar3yad/omar3yad/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,php,python,bootstrap,html,css,js,mysql,postgres,git,github,docker,postman,vscode&perline=14" />
+
+<br/>
+
+<!-- Phase 4: Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/omar-a-3yad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
+  &nbsp;&nbsp;
+  <a href="mailto:ayyad0311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201067977217" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0A101F" alt="WhatsApp" />
+  </a>
 </div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/omar-a-3yad/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="YOUR_TWITTER_URL" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="YOUR_DISCORD_URL" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=omar3yad&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
